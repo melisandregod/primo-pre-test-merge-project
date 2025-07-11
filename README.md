@@ -1,7 +1,7 @@
 # Primo pretest merge type script project 
 ## Setup
 ```bash
-git clone
+git clone https://github.com/melisandregod/primo-pre-test-merge-project.git
 cd primo-pre-test-merge-project
 npm install
 ```
