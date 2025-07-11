@@ -8,7 +8,7 @@ npm install
 
 ## Structure
 ```bash
-merge-project/
+primo-pre-test-merge-project/
 ├── src/
 │   ├── merge.ts          # main function
 │   └── index.ts
